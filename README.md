@@ -1,4 +1,4 @@
-# Varsha_G_D_Sahyadri_College_C-_Task7
+# Varsha_G_D_Sahyadri_College_C++_Task7
 C++ TASK 7:
 Task: Implementing a Distributed Database Connector with Poco C++ Libraries
 Summary:
