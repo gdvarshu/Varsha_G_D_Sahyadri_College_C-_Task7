@@ -7,6 +7,7 @@ The library will facilitate applications in connecting and interacting with Yuga
 
 Requirements:
 To build and run this project successfully, ensure the following tools are installed and configured:
+
 -Visual Studio 2022
 - MinGW-w64 (g++)
 - CMake
